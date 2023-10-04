@@ -14,7 +14,7 @@ A Python-based mod loader for Dadish 1 for PC. Easily load and manage mods for y
 1. **Clone or Download**: Clone this repository or download the ZIP file. Extract it to a suitable location on your system.
    
    ```bash
-   git clone [repository URL]
+   git clone BROccoli
    ```
 
 2. **Run the Mod Loader**: Navigate to the directory and run `BROccoli.exe`
