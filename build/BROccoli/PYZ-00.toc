@@ -1,4 +1,5 @@
-('C:\\Users\\DELL\\Desktop\\BROccoli_Mod_Loader\\build\\BROccoli\\PYZ-00.pyz',
+('C:\\Users\\DELL\\Desktop\\BROccoli_Mod_Loader - '
+ 'Copia\\build\\BROccoli\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
